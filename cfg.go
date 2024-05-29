@@ -3,7 +3,7 @@ package goframe_utils
 import (
 	"github.com/gogf/gf/v2/container/gvar"
 	"github.com/gogf/gf/v2/os/gtime"
-	"goframe-util/cfg"
+	"github.com/wsy9981999/goframe-util/cfg"
 	"time"
 )
 

@@ -1,6 +1,6 @@
 package goframe_utils
 
-import "goframe-util/log"
+import "github.com/wsy9981999/goframe-util/log"
 
 func ErrorWithDefault(v ...any) {
 	log.Error(nil, v...)
